@@ -1,7 +1,6 @@
 {
   "name": "pixelwebpack",
   "version": "1.0.0",
-  "description": "",
   "private": true,
   "scripts": {
     "build": "webpack",
@@ -28,5 +27,15 @@
     "gsap": "^3.7.1",
     "lodash": "^4.17.21",
     "serve": "^12.0.1"
-  }
+  },
+  "main": "webpack.config.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/remipixel/pixelwebpack.git"
+  },
+  "bugs": {
+    "url": "https://github.com/remipixel/pixelwebpack/issues"
+  },
+  "homepage": "https://github.com/remipixel/pixelwebpack#readme",
+  "description": ""
 }
